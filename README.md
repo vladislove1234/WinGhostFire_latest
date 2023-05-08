@@ -1,7 +1,10 @@
 # WinGhostFire_latest
 
-Керування:
- WASD - рух
- Q - невидимість
- E - увімкнення мікрофону
- Щоб взаємодіяти з об'єктами потрібно навестись на них мишкою і натиснути ЛКМ
+## About Project
+
+Final version of our game we made in context of Game hackathon 2.0 (LPNU). 
+
+## Controls
+ WASD - movement
+ Q - invisibility
+ E - enabling microphone
